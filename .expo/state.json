@@ -1,0 +1,11 @@
+{
+  "uuid": "3d89acb9-b2b6-474c-98aa-cf92a13008d6",
+  "auth": {
+    "sessionSecret": "{\"id\":\"d9619bcb-4172-45a2-8b5f-0f18be1557c1\",\"version\":1,\"expires_at\":2066860800000}",
+    "userId": "d29e7fa8-6ace-4565-b223-078b3fcc8ccc",
+    "username": "hamza_ahmad",
+    "currentConnection": "Username-Password-Authentication"
+  },
+  "PATH": "/data/data/com.termux/files/usr/bin:/data/data/com.termux/files/home/quantumtrade/node_modules/.bin:/data/data/com.termux/files/home/node_modules/.bin:/data/data/com.termux/files/node_modules/.bin:/data/data/com.termux/node_modules/.bin:/data/data/node_modules/.bin:/data/node_modules/.bin:/node_modules/.bin:/data/data/com.termux/files/usr/lib/node_modules/npm/node_modules/@npmcli/run-script/lib/node-gyp-bin:/data/data/com.termux/files/usr/bin:/product/bin:/apex/com.android.runtime/bin:/apex/com.android.art/bin:/system_ext/bin:/system/bin:/system/xbin:/odm/bin:/vendor/bin:/vendor/xbin:/tools:/platform-tools",
+  "analyticsDeviceId": "e2801bb8-5ed5-4488-a032-1ffff712ed4c"
+}
